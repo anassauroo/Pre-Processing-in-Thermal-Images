@@ -1,0 +1,2 @@
+!sed -n '1,10p' /content/thermal.yaml
+!sed -n '1,10p' /content/thermal_proc.yaml
