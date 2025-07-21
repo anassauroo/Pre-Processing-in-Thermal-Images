@@ -1,7 +1,0 @@
-# Core
-opencv-contrib-python-headless>=4.9 
-numpy>=1.23
-pandas>=1.5
-matplotlib>=3.8
-tqdm>=4.65
-jinja2>=3.1
