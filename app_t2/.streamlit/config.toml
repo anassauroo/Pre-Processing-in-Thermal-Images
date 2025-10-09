@@ -1,0 +1,15 @@
+[server]
+port = 8501
+enableCORS = false
+enableXsrfProtection = false
+# Aumenta limite de upload para 2GB (2048 MB)
+maxUploadSize = 2048
+# Aumenta limite de mensagem para processamento de arquivos grandes
+maxMessageSize = 2048
+
+[browser]
+gatherUsageStats = false
+
+[runner]
+# Evita reiniciar quando arquivos grandes são processados
+fastReruns = false
